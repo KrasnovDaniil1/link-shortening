@@ -1,1 +1,8 @@
-# link-shortening https://www.youtube.com/watch?v=ivDjWYcKDZI
+# Приложение для сокращения ссылок
+
+Приложение для сокращения ссылок . Приложение придумал не я , создавал его по видио из ютуба https://www.youtube.com/watch?v=ivDjWYcKDZI . 
+# <img src="canvas-mover.gif" width="100%" height="100%"  />
+#### Можно :
+- регестрироваться .
+- считать количество кликов на эту ссылку . 
+
